@@ -1,0 +1,6 @@
+{
+  "name": "EPUB Tamil",
+  "description": "PDF, HTML, CSS மற்றும் EPUB என்றால் என்ன? — Beginner Tamil Digital Publishing Tutorial",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
